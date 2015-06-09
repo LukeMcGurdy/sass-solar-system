@@ -5,4 +5,4 @@ A rotating solar system built with Scss and HTML. Please note that this is very 
 Demo to follow.
 
 
-** Inspired by http://codepen.io/willpaige/pen/ImjGq **
+**Inspired by http://codepen.io/willpaige/pen/ImjGq**
