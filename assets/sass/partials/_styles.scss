@@ -1,3 +1,6 @@
+// Scss Solar System by Luke McGurdy, Jun '15
+// Inspired by http://codepen.io/willpaige/pen/ImjGq
+
 * {
     box-sizing: border-box;
 }
@@ -8,10 +11,9 @@ html {
 
 .container {
     position: relative;
-    width: 540px;
-    margin: 40px auto;
+    margin: 90px auto;
     text-align: center;
-    height: 600px;
+    height:600px;
 }
 
 .sun div {
@@ -98,7 +100,6 @@ html {
 //        background: #fff;
 //        top: -30px;
 //        left: -30px;
-//        transform-origin: 15px 15px;
     }    
 
 }
@@ -110,7 +111,6 @@ html {
     background: tomato;
     top: 25px;
     right: -122px;
-    //transform-origin: 15px 15px;
 }
 
 .jupiter {display: none !important;
@@ -120,7 +120,6 @@ html {
     background: #dda1f9;
     top: -18px;
     left: -18px;
-    transform-origin: 8px 8px;
 }
 
 .saturn {display: none !important;
@@ -129,7 +128,6 @@ html {
     border-radius: 15px;
     top: -30px;
     left: -30px;
-    transform-origin: 5px 5px;
     background: red;
 }
 
@@ -139,7 +137,6 @@ html {
     border-radius: 15px;
     top: -50px;
     left: -50px;
-    transform-origin: 10px 10px;
 }
 .neptune {display: none !important;
     width: 30px;
@@ -147,7 +144,6 @@ html {
     border-radius: 15px;
     top: -50px;
     left: -50px;
-    transform-origin: 10px 10px;
     background: red;
 }
 .pluto{display: none !important;
@@ -156,7 +152,6 @@ html {
     border-radius: 15px;
     top: -50px;
     left: -50px;
-    transform-origin: 10px 10px;
     background: red;
 }
 
