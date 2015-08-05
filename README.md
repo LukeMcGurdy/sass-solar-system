@@ -1,7 +1,16 @@
-# scss-solar-system
+# SCSS Solar System
 
-A rotating solar system built with Scss and HTML. Please note that this is very much a work in progress. The plan is to add rotations for individual planets, their weather systems (this will be really basic) and a dark side to each planet. 
+A rotating solar system built with SCSS and HTML. The earth is now comprised of 4 rotating elements -
 
-[Early Demo](http://codepen.io/anon/pen/GJEoeZ)
+1) the earth orbits the sun
+2) the image of the earth rotates 
+2) the image of clouds rotate
+3) the dark side to the planet spins counterclockwise to #1
 
-**Inspired by http://codepen.io/willpaige/pen/ImjGq**
+The earth itself is a little too small for my liking and therefore it's a little difficult to see the detail but it's all there.
+
+Please note that this is an incomplete demo.  
+
+**[Early Demo](http://codepen.io/anon/pen/QbYNQj)**
+
+Inspired by http://codepen.io/willpaige/pen/ImjGq
